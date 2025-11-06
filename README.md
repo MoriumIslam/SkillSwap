@@ -5,6 +5,7 @@ SkillSwap is a React + Vite web app to connect learners with instructors to exch
 
 ## Live URL
 
+https://skill-swap-f0f13.web.app
 
 ## Key Features
 - Browse skill listings and detailed pages
