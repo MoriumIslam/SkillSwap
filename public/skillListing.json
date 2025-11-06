@@ -1,0 +1,99 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Baddha Konasana",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Improve hip flexibility and calm your mind with guided Butterfly Pose sessions.",
+    "image": "https://i.postimg.cc/CLqV5Xpp/Baddha-Konasana.webp",
+    "category": "Yoga Asana"
+  },
+  {
+    "skillId": 14,
+    "skillName": "Prenatal Yoga",
+    "providerName": "Julia Bennett",
+    "providerEmail": "julia@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 6,
+    "description": "Safe, soothing yoga for expectant mothers to strengthen body and calm the mind.",
+    "image": "https://i.postimg.cc/Sxw0hGv7/p.webp",
+    "category": "Wellness Yoga"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Hatha Yoga Fundamentals",
+    "providerName": "Ravi Patel",
+    "providerEmail": "ravi@skillswap.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Learn foundational postures and breathing for daily balance and body awareness.",
+    "image": "https://i.postimg.cc/NjNhzc1W/Hatha-Yoga-Fundamentals.webp",
+    "category": "Yoga Basics"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Pranayama Breathing",
+    "providerName": "Elena Flores",
+    "providerEmail": "elena@skillswap.com",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 10,
+    "description": "Control your energy through ancient breathing techniques to reduce stress and improve focus.",
+    "image": "https://i.postimg.cc/j5PFt0Jk/Pranayama-Breathing.webp",
+    "category": "Breathwork"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Surya Namaskar",
+    "providerName": "Nikhil Sharma",
+    "providerEmail": "nikhil@skillswap.com",
+    "price": 22,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Master the Sun Salutation sequence to awaken your body and boost circulation.",
+    "image": "https://i.postimg.cc/nzJ1KsC3/Surya-Namaskar.webp",
+    "category": "Yoga Sequence"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Yin Yoga for Relaxation",
+    "providerName": "Mei Ling",
+    "providerEmail": "mei@skillswap.com",
+    "price": 17,
+    "rating": 4.8,
+    "slotsAvailable": 8,
+    "description": "Hold deep stretches to release tension and enhance flexibility through mindful stillness.",
+    "image": "https://i.postimg.cc/Dy81XQxw/Yin-Yoga-for-Relaxation.webp",
+    "category": "Restorative Yoga"
+  },
+  {
+    "skillId": 7,
+    "skillName": "Ashtanga Primary Series",
+    "providerName": "James Lee",
+    "providerEmail": "james@skillswap.com",
+    "price": 28,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Structured, energetic practice that strengthens your core and builds discipline.",
+    "image": "https://i.postimg.cc/tJVCXgz0/Ashtanga-Primary-Series.jpg",
+    "category": "Advanced Yoga"
+  },
+   {
+    "skillId": 11,
+    "skillName": "Kundalini Awakening",
+    "providerName": "Sofia Torres",
+    "providerEmail": "sofia@skillswap.com",
+    "price": 27,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Awaken your inner energy with kriyas, mantras, and meditation practices.",
+    "image": "https://i.postimg.cc/J7bzdsts/k.webp",
+    "category": "Spiritual Yoga"
+  }
+
+]

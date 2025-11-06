@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "primarySkillId": 1,
+    "name": "Alex Martin",
+    "skill": "Vinyasa Flow",
+    "category": "Yoga",
+    "rating": 4.9,
+    "price": 25,
+    "distanceKm": 1.2,
+    "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "primarySkillId": 5,
+    "name": "Olga Amitara",
+    "skill": "Pranayama",
+    "category": "Breathwork",
+    "rating": 4.8,
+    "price": 18,
+    "distanceKm": 2.4,
+    "image": "https://i.postimg.cc/1z0fVB2Y/olya.jpg"
+  },
+  {
+    "id": 3,
+    "primarySkillId": 10,
+    "name": "Ravi Patel",
+    "skill": "Hatha Basics",
+    "category": "Yoga",
+    "rating": 4.7,
+    "price": 16,
+    "distanceKm": 0.9,
+    "image": "https://images.unsplash.com/photo-1540206276207-3af25c08abc4?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "primarySkillId": 12,
+    "name": "Mei Ling",
+    "skill": "Yin Yoga",
+    "category": "Restorative",
+    "rating": 4.9,
+    "price": 20,
+    "distanceKm": 3.1,
+    "image": "https://i.postimg.cc/6QHThq6r/avlyoga0882.jpg"
+  }
+]
