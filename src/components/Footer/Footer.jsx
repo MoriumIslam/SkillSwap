@@ -44,9 +44,9 @@ const Footer = () => {
                 <span className="font-medium">support@skillswap.yoga</span>
               </a>
               <a
-                href="tel:+8801700000000"
+                href="tel:+8800170000111"
                 className="flex items-center gap-3 p-3 bg-white rounded-lg border border-gray-200 hover:border-blue-500 transition"
-                aria-label="Call +880 1700 000 000"
+                aria-label="Call +880 1700 000 111"
               >
                 <Phone size={20} className="text-blue-600" />
                 <span className="font-medium">+880 1700 000 000</span>
