@@ -23,7 +23,7 @@ const Footer = () => {
                 SkillSwap
               </h3>
             </div>
-            <p className="text-gray-800 leading-relaxed">
+            <p className="text-gray-900 leading-relaxed">
               Learn, teach, and trade wellness skills in your neighborhood —
               from yoga flows to mindfulness and mobility. Breathe in, level up, give back.
             </p>
@@ -34,13 +34,13 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-6 text-gray-900">
               Contact
             </h4>
-            <div className="space-y-3 text-gray-700">
+            <div className="space-y-3 text-gray-800">
               <a
                 href="mailto:support@skillswap.yoga"
-                className="flex items-center gap-3 p-3 bg-white rounded-lg border border-gray-200 hover:border-blue-500 transition"
+                className="flex items-center gap-3 p-3 bg-white rounded-lg border border-gray-200 hover:border-blue-600 transition"
                 aria-label="Email support@skillswap.yoga"
               >
-                <Mail size={20} className="text-blue-600" />
+                <Mail size={20} className="text-blue-700" />
                 <span className="font-medium">support@skillswap.yoga</span>
               </a>
               <a
