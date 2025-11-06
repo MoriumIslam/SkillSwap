@@ -1,4 +1,3 @@
-// src/components/layout/Homepage.jsx
 import Aos from "aos";
 import React, { useEffect, useState } from "react";
 
@@ -90,7 +89,7 @@ const Homepage = () => {
                             <img src={ava4} className="w-9 h-9 rounded-full ring-2 ring-white object-cover" />
                         </div>
                         <p className="text-sm text-gray-600">
-                            Over <b>120+</b> people have joined our yoga classes.
+                            Over <b>1200+</b> people have joined our yoga classes.
                         </p>
                     </div>
                 </div>
@@ -140,7 +139,7 @@ const Homepage = () => {
                 </section>
             </div>
 
-            {/* --- Swiper Slider: JSON → background images (proxy + fallback) --- */}
+         
             <section className="py-16 bg-white">
                 <div className="container mx-auto px-4">
                     <Swiper
